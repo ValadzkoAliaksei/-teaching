@@ -1,0 +1,38 @@
+/* div.text span {
+  color: red;
+}
+
+div.text > div > span {
+  color: blue;
+}
+
+/* div.text + div {
+  color: green;
+} */
+/* div.text ~ div {
+  color: green;
+}
+
+div.text ~ div {
+  font-size: 18px;
+}
+
+div.text ~ div {
+  border: 1px solid black;
+}
+
+div.text ~ div {
+  color: red;
+}
+
+.text ~ div {
+  color: black;
+} */
+
+.container .title {
+  margin: 10px;
+}
+
+.container2 .title {
+  margin: 10px;
+}

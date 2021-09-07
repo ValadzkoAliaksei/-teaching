@@ -1,0 +1,9 @@
+ul li {
+  list-style-type: circle;
+  color: red;
+}
+
+ul li ul li {
+  list-style-type: square;
+  color: blue;
+}

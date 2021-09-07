@@ -1,0 +1,41 @@
+a {
+  font-size: 42px;
+  font-weight: bold;
+}
+
+/* a:link {
+  color: green;
+}
+
+a:visited {
+  color: yellow;
+}
+
+a:focus {
+  color: red;
+}
+
+a:hover {
+  color: purple;
+}
+
+a:active {
+  color: turquoise;
+} */
+
+a:nth-of-type(odd) {
+  color: red;
+}
+
+:disabled {
+  border: 5px solid black;
+}
+
+:checked {
+  background-color: red;
+  margin: 10px;
+}
+
+:indeterminate {
+  margin: 30px;
+}

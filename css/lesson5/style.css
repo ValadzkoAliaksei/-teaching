@@ -1,0 +1,26 @@
+div {
+  font-variant: small-caps;
+  font-size: 32px;
+  font-family: gabriola;
+}
+/* div {
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: green;
+  text-shadow: 1px 1px 2px black;
+  text-transform: capitalize;
+  line-height: 128px;
+  text-align: left;
+  height: 100vh;
+  text-align: center;
+  word-spacing: 12px;
+  letter-spacing: 6px;
+} */
+
+img {
+  vertical-align: middle;
+}
+span {
+  vertical-align: super;
+  font-size: 24px;
+}

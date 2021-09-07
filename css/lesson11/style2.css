@@ -1,0 +1,14 @@
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.image {
+  display: block;
+}
+
+.image {
+  margin-top: 200px;
+  transform: rotate(60deg);
+  transition: all 1s ease-in 3s;
+}

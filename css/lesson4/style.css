@@ -1,0 +1,31 @@
+/* div:hover::after {
+  content: "Всем пока!";
+  color: #0f0;
+  font-size: 50px;
+} */
+
+/* div::before {
+  content: "Nersdg";
+  color: #0ff;
+  font-size: 32px;
+} */
+
+div::first-letter {
+  color: #f0f;
+  font-size: 32px;
+}
+
+div::first-line {
+  color: #f00;
+  font-size: 24px;
+}
+
+div::selection {
+  background-color: brown;
+}
+
+::marker {
+  content: "\256C";
+  color: blue;
+  font-size: 1.2em;
+}

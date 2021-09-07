@@ -1,0 +1,60 @@
+/* .page-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+} */
+
+/* .page {
+  position: relative;
+  height: 2000px;
+} */
+
+/* .page-image.page-image2 {
+  top: 50px;
+  left: 50px;
+  z-index: 3;
+  clip: rect(0, 200px, 200px, 0);
+}
+
+.page-image.page-image3 {
+  top: 100px;
+  left: 100px;
+  z-index: -1;
+} */
+/*
+.page-image {
+  margin: 16px;
+}
+
+.page-image1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.page-image2 {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+.page-image3 {
+  position: sticky;
+  top: 0;
+  left: 50%;
+} */
+
+.page {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.page-image {
+  display: block;
+  float: right;
+  margin-right: 16px;
+}
+
+.page-image1 {
+  float: left;
+}

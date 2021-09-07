@@ -1,0 +1,22 @@
+.div_1 {
+  background-color: blue;
+  width: 500px;
+  padding: 20px;
+  box-sizing: border-box;
+  border: 20px solid blue;
+  height: 10vh;
+  margin: 0 auto;
+}
+
+.div_2 {
+  background-color: yellow;
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+  outline: 10px solid black;
+  outline-offset: 10px;
+}
+
+.div {
+  padding: 20px 30px 40px 50px;
+}
