@@ -1,0 +1,13 @@
+ul li {
+  font-weight: bold;
+  font-style: italic;
+  list-style: disc;
+}
+
+ol li {
+  font-weight: bold;
+}
+
+li ol > li {
+  font-weight: normal;
+}

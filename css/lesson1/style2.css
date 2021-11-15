@@ -1,8 +1,8 @@
 h1 {
   text-align: center;
-  font-family: helvetica;
+  font-family: Helvetica;
   color: #3014b4;
-  font-style: 18px;
+  font-size: 18pt;
   text-shadow: 1px 1px 0px #fff, 3px 3px 0px #d3d7dc;
 }
 
@@ -11,21 +11,21 @@ ul {
 }
 
 li {
-  font-family: georgia;
+  font-family: Georgia;
   font-style: italic;
-  font-size: 12px;
+  font-size: 12pt;
   color: #3212af;
 }
 
 .class-red {
   text-align: center;
-  font-family: "comic sans ms";
-  font-size: 16px;
+  font-family: "Times New Roman";
+  font-size: 16pt;
   color: red;
   text-shadow: 1px 1px 0px #fff, 3px 3px 0px #d3d7dc;
 }
 
 p {
-  font-style: verdana;
-  font-size: 12px;
+  font-family: Verdana;
+  font-size: 12pt;
 }

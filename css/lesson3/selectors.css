@@ -1,0 +1,58 @@
+a {
+  color: inherit;
+}
+
+h1 {
+  padding: 20px;
+  background-color: #dddddd;
+  font-size: 28px;
+}
+
+p:nth-of-type(2) {
+  font-weight: bold;
+}
+
+a[href^="#"] {
+  font-size: 16px;
+  font-weight: bold;
+  color: #777777;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+a[href^="#"]:hover {
+  color: #1d0d77;
+}
+
+h2 {
+  padding: 10px;
+  background-color: #dddddd;
+  font-size: 20px;
+}
+
+h2:first-of-type {
+  color: #2d4764;
+  border: 1px dotted #444444;
+}
+
+h2:nth-of-type(2) {
+  color: #345375;
+  border: 1px dashed #444444;
+}
+
+h2:last-of-type {
+  color: #3e337a;
+  border: 1px double #444444;
+}
+
+h3 {
+  margin-left: 40px;
+}
+
+h3:nth-of-type(odd) {
+  color: #1ead10;
+}
+
+h3:nth-of-type(even) {
+  color: #ff4500;
+}

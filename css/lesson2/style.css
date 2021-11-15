@@ -2,7 +2,7 @@
   color: red;
 } */
 
-.text {
+/* .text {
   color: blue;
 }
 
@@ -16,4 +16,62 @@ span.text {
 
 .title > span.number + .text {
   border: 1px solid black;
+} */
+
+/* .block .title .text {
+  color: red;
+} */
+
+/* div.block > div.title > span.number {
+  color: yellow;
+}
+
+.number .text {
+  color: blue;
+} */
+
+/* .block {
+  color: crimson;
+  border-bottom: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: normal;
+} */
+/* 
+.title,
+.number,
+h1 {
+  font-weight: bold;
+}
+
+.main-title {
+  font-weight: normal;
+}
+
+#id {
+  font-weight: 100;
+}
+ */
+/* 
+div.block div.title .number {
+  color: blue;
+}
+
+.block .title span.number {
+  color: red;
+} */
+/* 
+div > span {
+  color: red;
+}
+
+.number ~ .text {
+  color: blue;
+} */
+
+p {
+  color: blue;
 }
