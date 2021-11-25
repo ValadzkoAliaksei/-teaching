@@ -1,0 +1,7 @@
+.form-block {
+  display: flex;
+  flex-direction: column;
+  max-width: 580px;
+  row-gap: 30px;
+  margin: 0 auto;
+}
