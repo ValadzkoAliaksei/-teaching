@@ -1,0 +1,41 @@
+.form-block {
+  display: flex;
+  flex-direction: column;
+  max-width: 580px;
+  row-gap: 30px;
+  margin: 0 auto;
+}
+
+button {
+  background-color: maroon;
+  color: aliceblue;
+  border-radius: 4px;
+  padding: 12px;
+  font-size: 16px;
+}
+
+button:disabled {
+  background-color: blanchedalmond;
+  color: black;
+  cursor: no-drop;
+}
+
+.loading-image {
+  margin-left: 4px;
+  width: 16px;
+  animation: spin 2s linear 0s infinite;
+  display: none;
+}
+
+.is-loading {
+  display: inline-block;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
